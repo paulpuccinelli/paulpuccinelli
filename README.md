@@ -1,9 +1,9 @@
 ## Hi, I'm Paul Puccinelli   
 
-🎓 UC Berkeley '25 - Statistics & Economics
-📍 Berkeley, CA  
+#### 🎓 UC Berkeley '25 - Statistics & Economics
+#### 📍 Berkeley, CA  
 
-I am a recent graduate with a deep interest in applying data analysis and modeling to solving real-world problems.  
+I am a recent graduate with a deep interest in econometrics, data science, and statistical learning. I enjoy building projects that use data to answer practical questions and improve decision-making.
 
 ### 🔨 Technical Skills  
 #### Languages & Tools:
@@ -24,6 +24,11 @@ I am a recent graduate with a deep interest in applying data analysis and modeli
 - scikit-learn
 - pytorch
 
+### 🎯 Current Focus
+- Building end-to-end data science projects.
+- Improving modeling and validation workflows.
+- Enhancing my proficiency with SVMs and neural networks.
+- Familiarize myself with language models.
 
 
 <!--
