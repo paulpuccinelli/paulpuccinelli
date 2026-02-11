@@ -28,7 +28,7 @@ I am a recent graduate with a deep interest in econometrics, data science, and s
 - Building end-to-end data science projects.
 - Improving modeling and validation workflows.
 - Enhancing my proficiency with SVMs and neural networks.
-- Familiarize myself with language models.
+- Familiarizing myself with language models.
 
 
 <!--
