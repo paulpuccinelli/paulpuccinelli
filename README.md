@@ -31,6 +31,8 @@ I am a recent graduate with a deep interest in econometrics, data science, and s
 - Familiarizing myself with language models.
 
 
+Always interested in learning new prgramming languages. I am really looking forward to learning C and Java.
+
 <!--
 **paulpuccinelli/paulpuccinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
