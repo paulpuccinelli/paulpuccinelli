@@ -27,7 +27,7 @@ I am a recent graduate with a deep interest in econometrics, data science, and s
 ### 🎯 Current Focus
 - Building end-to-end data science projects.
 - Improving modeling and validation workflows.
-- Enhancing my proficiency with SVMs and neural networks.
+- Enhancing proficiency with SVMs and neural networks.
 - Familiarizing myself with language models.
 
 
